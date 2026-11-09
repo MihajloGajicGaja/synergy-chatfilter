@@ -1,0 +1,12 @@
+"Phrases"
+{
+	"UnicodeUsernameWarning"
+	{
+		"en"	"Unicode usernames are not allowed, please stick to English/ASCII characters"
+	}
+	
+	"UnicodeChatWarning"
+	{
+		"en"	"Please keep the chat in English."
+	}
+}
